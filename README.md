@@ -15,3 +15,6 @@ The program demonstrates several OOPs (Object-Oriented Programming) concepts, in
 To run the program, compile the `CarServiceStation.java` file using a Java compiler (e.g., `javac CarServiceStation.java`) and run the `CarServiceStation` class using a Java Virtual Machine (e.g., `java CarServiceStation`). The program will prompt the user to enter the car type and service codes, and will generate a bill with the total charges and any complimentary cleaning provided (if applicable).
 
 Note: The program assumes that the user input is valid and follows the specified format (car type as a string and service codes as comma-separated strings). Invalid input may cause the program to fail or produce incorrect results.
+
+# ScreenShot of the output
+![car service shor](https://user-images.githubusercontent.com/67001521/233267568-e3d8b089-b49c-43ff-9cb5-afac199565e3.png)
